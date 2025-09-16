@@ -14,7 +14,7 @@ const Expriences = [
         date: '2025 - present',
         logo: 'images/work/logo.png',
         position: 'Full Stack Devloper',
-        companyName: 'Gallerie Ontario, Canada',
+        companyName: 'Tusnie',
         workFrom: '(Remote)',
     },
     {
