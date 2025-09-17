@@ -16,7 +16,7 @@ const About2 = (props) => {
                                     <i className="fi flaticon-verified"></i>
                                 </div>
                                 <div className="p-text">
-                                    <h3><span data-count="1500">1500</span>+</h3>
+                                    <h3><span data-count="1500">100</span>+</h3>
                                     <p>Complete Project</p>
                                 </div>
                             </div>
